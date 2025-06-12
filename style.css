@@ -17,6 +17,7 @@
     width: 280px;
     border-color: rgb(201, 201, 201);
     margin-bottom: 50px;
+    cursor: pointer;
 }
 
 .imagem-logo{
@@ -37,4 +38,9 @@
     border-color: red;
     margin-left: 5px;
     
+}
+
+.raspberry:hover{
+    background-color: rgb(180, 0, 0);
+    cursor: pointer;
 }
