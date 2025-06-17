@@ -1,15 +1,15 @@
 body {
     display: flex;
-    justify-content: center; /* centraliza horizontal */
-    align-items: center;     /* centraliza vertical */
-    height: 100vh;           /* altura total da viewport */
-    margin: 0;               /* remove margens padrão */
-    background-color: #f0f0f0; /* só pra dar contraste, opcional */
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;           
+    margin: 0;               
+    background-color: #f0f0f0; 
   }
 
   .container {
     display: flex;
-    gap: 80px; /* espaço entre as duas divs */
+    gap: 80px; 
   }
 
 .caixa-principal {
@@ -62,8 +62,8 @@ body {
 }
 
 .historico {
-    width: 200px;
-    height: 300px;
+    width: 250px;
+    height: 500px;
     background-color: white;
     margin: 0;
     border: 1px solid #ccc;
@@ -75,4 +75,8 @@ body {
     font-family:Georgia, 'Times New Roman', Times, serif;
   }
 
+  .production{
+    color: red;
+    font-size: 21px;
+  }
 
