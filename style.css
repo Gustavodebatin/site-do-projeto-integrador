@@ -8,7 +8,7 @@
     margin-top: 250px;
     color:rgb(165, 163, 163);
     background-color: rgb(255, 255, 255);
-    box-shadow: 3px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
 }
 
 .select-item{
@@ -24,7 +24,6 @@
 .imagem-logo{
     width: 280px;
     height: auto;
-    justify-content:center;
     margin-top: 30px;
     margin-left: 10px;
     margin-bottom: 30px;
